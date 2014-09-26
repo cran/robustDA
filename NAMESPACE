@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+import(MASS,mclust,Rsolnp)
+importFrom(stats,predict)
+export(rmda)
+S3method(predict,rmda)
