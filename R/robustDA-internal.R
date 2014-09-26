@@ -18,7 +18,7 @@ function(R,P,cls){
     ni = sum(cls==i)
 		f = f + sum(log(P[cls==i,] * matrix(1,ni,1)%*%Ri));
 	}
-	f = -f
+	f
 }
 .Random.seed <-
 c(403L, 11L, -1540175763L, -2099002969L, 614552526L, 1669011752L, 
