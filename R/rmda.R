@@ -1,9 +1,5 @@
 rmda <-
 function(X,cls,K=4,model='VEV'){
-# Robust Mixture Discriminant Analysis 
-# Authors: Charles Bouveyron & Stéphane Girard
-# Reference: ???
-	
   ## Initialization
   C = max(cls)
   

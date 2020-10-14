@@ -7,7 +7,7 @@
 Robust Mixture Discriminant Analysis
 }
 \description{
-Robust mixture discriminant analysis (RMDA, Bouveyron & Girard, 2009) allows to build a robust supervised classifier from learning data with label noise. The idea of the proposed method is to confront an unsupervised modeling of the data with the supervised information carried by the labels of the learning data in order to detect inconsistencies. The method is able afterward to build a robust classifier taking into account the detected inconsistencies into the labels.
+Robust mixture discriminant analysis (RMDA), proposed in Bouveyron & Girard, 2009 <doi:10.1016/j.patcog.2009.03.027>, allows to build a robust supervised classifier from learning data with label noise. The idea of the proposed method is to confront an unsupervised modeling of the data with the supervised information carried by the labels of the learning data in order to detect inconsistencies. The method is able afterward to build a robust classifier taking into account the detected inconsistencies into the labels.
 }
 \details{
 \tabular{ll}{
@@ -20,8 +20,7 @@ License: \tab GPL-2\cr
 }
 \author{
 Charles Bouveyron & Stéphane Girard
-
-Maintainer: Charles Bouveyron <charles.bouveyron@parisdescartes.fr>
+Maintainer: Charles Bouveyron <charles.bouveyron@gmail.com>
 }
 \references{
 C. Bouveyron and S. Girard, Robust supervised classification with mixture models: Learning from data with uncertain labels, Pattern Recognition, vol. 42 (11), pp. 2649-2658, 2009.

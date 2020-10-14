@@ -1,8 +1,8 @@
-5da470be49bb25c73eebdae527331f92 *DESCRIPTION
+1495269cad2ed22adf74b3e397511084 *DESCRIPTION
 3f7da853a43db51ed529457ac39c39fa *NAMESPACE
-79bdd02eff9675901107240b5951cf41 *R/predict.rmda.R
-f34fb651fad1335afd2ffd25bfc89105 *R/rmda.R
-e17babc686d3864e32cb7868279c2201 *R/robustDA-internal.R
+987a3dc6db98a2d9da854d6057aec905 *R/predict.rmda.R
+5f4ccd5a95c3b14f3a12f39531fffd39 *R/rmda.R
+c51074555073eae7d4f37e7c19e0a8c4 *R/robustDA-internal.R
 16fb4ef8866c4d7dcb1825a56ce15654 *man/predict.rmda.Rd
-b2e59964d4e413011ef96ece58d88f8b *man/rmda.Rd
-f733fedc7704db33c082dc071926c11d *man/robustDA-package.Rd
+3c8606b01c508daca1d107c4087e64f4 *man/rmda.Rd
+a203101527792e565c78824742332275 *man/robustDA-package.Rd
